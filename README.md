@@ -109,3 +109,4 @@ Genel Akış Özeti
         └── ner_model/
             ├── data_processor.py
             └── ner_trainer.py
+PROJE HAKKINDA DETAYLI BİLGİ İÇİN: https://www.notion.so/Text-to-SQL-Ara-t-rma-Ve-Proje-Raporu-2486487db46f8132ac55e19ce2f9c422
