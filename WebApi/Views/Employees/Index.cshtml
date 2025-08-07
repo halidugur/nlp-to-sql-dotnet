@@ -1,0 +1,39 @@
+﻿@model IEnumerable<stajprojem.Models.Employee>
+
+@{
+    ViewData["Title"] = "Çalışanlar";
+}
+
+<h2>Çalışanlar</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>first_name</th>
+            <th>last_name</th>
+            <th>department</th>
+            <th>position</th>
+            <th>salary</th>
+            <th>hire_date</th>
+            <th>email</th>
+            <th>phone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.first_name</td>
+                <td>@item.last_name</td>
+                <td>@item.department</td>
+                <td>@item.position</td>
+                <td>@item.salary?.ToString("N2")</td>
+                <td>@item.hire_date?.ToShortDateString()</td>
+                <td>@item.email</td>
+                <td>@item.phone</td>
+            </tr>
+        }
+    </tbody>
+</table>

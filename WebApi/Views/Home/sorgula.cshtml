@@ -1,0 +1,67 @@
+﻿@model stajprojem.Models.SqlResponseViewModel
+
+@{
+    ViewData["Title"] = "Sorgula";
+}
+
+<h2 class="mb-3">Doğal Dilden SQL Sorgula</h2>
+
+<form method="post" class="mb-4">
+    <input type="text" name="userQuery" class="form-control mb-2" placeholder="Bir sorgu yaz..." required />
+    <button type="submit" class="btn btn-primary">Sorgula</button>
+</form>
+
+@if (Model != null)
+{
+    if (Model.success)
+    {
+        <div class="alert alert-success">
+            <strong>Oluşturulan SQL:</strong> <code>@Model.sql</code>
+            <br />
+            <strong>Intent:</strong> @Model.intent <br />
+            <strong>Table:</strong> @Model.table <br />
+            <strong>Confidence:</strong> @Model.confidence <br />
+            <strong>Zaman filtresi var mı?:</strong> @(Model.has_time_filter == true ? "Evet" : "Hayır")
+        </div>
+
+        @* EKLENDİ: Tablo Sonucu *@
+        @if (Model.Rows != null && Model.Rows.Any())
+        {
+            <div class="table-responsive mt-4">
+                <table class="table table-striped table-hover align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            @foreach (var col in Model.Columns)
+                            {
+                                <th>@col</th>
+                            }
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var row in Model.Rows)
+                        {
+                            <tr>
+                                @foreach (var col in Model.Columns)
+                                {
+                                    <td>@(row[col] ?? "")</td>
+                                }
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-info mt-3">
+                Veri dönmedi (veya COUNT/SUM gibi tek değer döndü).
+            </div>
+        }
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            <strong>Hata:</strong> @Model.error
+        </div>
+    }
+}

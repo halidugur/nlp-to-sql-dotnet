@@ -1,0 +1,66 @@
+﻿@model IEnumerable<stajprojem.Models.Product>
+
+    @{
+    ViewData["Title"] = "Ürünler";
+    var selectedCategoryId = ViewContext.HttpContext.Request.Query["CategoryId"].ToString();
+    var categories = ViewBag.Categories as List<stajprojem.Models.Category>;
+    }
+
+    <h2>Ürünler</h2>
+
+    <form method="get" action="/FilteredProducts/Index">
+        <input type="text" name="search" placeholder="Ürün adı ara..." value="@ViewContext.HttpContext.Request.Query["search"]" />
+        <select name="CategoryId">
+            <option value="">Tüm Kategoriler</option>
+            @foreach (var c in categories)
+    {
+        var isSelected = selectedCategoryId == c.id.ToString();
+            <option value="@c.id" selected="@(isSelected ? "selected" : null)">
+                @c.category_name
+            </option>
+    }
+        </select>
+
+        <button type="submit">Filtrele</button>
+    </form>
+
+    <table class="table table-striped table-bordered mt-3">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Ürün Adı</th>
+                <th>Kategori</th>
+                <th>Tedarikçi</th>
+                <th>Birim Fiyatı</th>
+                <th>Birim</th>
+                <th>Stok</th>
+                <th>Açıklama</th>
+                <th>Eklenme Tarihi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.product_name</td>
+                <td>@item.category_id</td>
+                <td>@item.supplier_id</td>
+                <td>@(item.unit_price.HasValue ? item.unit_price.Value.ToString("N2") : "-")</td>
+                <td>@item.unit</td>
+                <td>@item.stock_quantity</td>
+                <td>@item.description</td>
+                <td>@(item.created_date.HasValue ? item.created_date.Value.ToShortDateString() : "-")</td>
+            </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="9" class="text-center">Kayıt yok.</td>
+            </tr>
+        }
+        </tbody>
+    </table>

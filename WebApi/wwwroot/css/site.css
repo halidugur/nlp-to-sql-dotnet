@@ -1,0 +1,141 @@
+﻿body {
+    background: linear-gradient(135deg, #13193f, #310e68);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e0e0e0;
+    margin: 0;
+    padding-bottom: 60px;
+}
+
+/* Kartlar için gölge ve renk geçişleri */
+.card {
+    border: none;
+    border-radius: 16px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+    .card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    }
+
+.card-indigo {
+    background: linear-gradient(135deg, #310e68, #5f0f40);
+    color: #fff;
+}
+
+.card-purple {
+    background: linear-gradient(135deg, #4062bb, #5200ae);
+    color: #fff;
+}
+
+.card-lightblue {
+    background: linear-gradient(135deg, #0892d0, #4b0082);
+    color: #fff;
+}
+
+.card-green {
+    background: linear-gradient(135deg, #166d3b, #004225);
+    color: #fff;
+}
+
+.card-yellow {
+    background: linear-gradient(135deg, #d4af37, #ffd700);
+    color: #000;
+}
+
+.card-query {
+    background: #2c2c2c;
+    color: #e0e0e0;
+}
+
+/* === Navbar === */
+.navbar {
+    background: linear-gradient(90deg, #4b0082, #000040);
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #fff !important;
+}
+
+.nav-link {
+    color: #ffffffcc !important;
+    transition: all 0.3s ease;
+}
+
+    .nav-link:hover {
+        color: #fff !important;
+        text-shadow: 0 0 5px rgba(255,255,255,0.6);
+    }
+
+/* === Sayfa İçeriği === */
+.container {
+    background-color: #000000dd;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    color: #e0e0e0;
+}
+
+/* === Footer === */
+footer {
+    background: #2c2c2c;
+    color: #aaa;
+    font-size: 0.9rem;
+    border-top: 1px solid #444;
+}
+
+/* === Butonlar === */
+.btn-primary {
+    background: linear-gradient(90deg, #4b0082, #000040);
+    border: none;
+    transition: 0.3s ease;
+}
+
+    .btn-primary:hover {
+        background: linear-gradient(90deg, #000040, #4b0082);
+        box-shadow: 0 0 8px rgba(76, 0, 130, 0.6);
+    }
+
+/* === Başlıklar === */
+h1, h2, h3, h4 {
+    color: #f4f4f4;
+}
+
+/* === Tablo Stili === */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #2c2c2c;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+th {
+    background-color: #3b3b3b;
+    color: #e0e0e0;
+    padding: 12px;
+}
+
+td {
+    padding: 10px;
+    border-top: 1px solid #444;
+    color: #e0e0e0;
+}
+
+/* === Mobil için Navbar === */
+@media (max-width: 768px) {
+    .navbar-nav {
+        background: #4b0082;
+        border-radius: 0 0 10px 10px;
+    }
+
+    .nav-link {
+        color: #fff !important;
+    }
+}

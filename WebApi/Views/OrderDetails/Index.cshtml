@@ -1,0 +1,33 @@
+﻿@model IEnumerable<stajprojem.Models.OrderDetail>
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h2>Order Details</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>order_id</th>
+            <th>product_id</th>
+            <th>quantity</th>
+            <th>unit_price</th>
+            <th>total_price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.order_id</td>
+                <td>@item.product_id</td>
+                <td>@item.quantity</td>
+                <td>@item.unit_price</td>
+                <td>@item.total_price</td>
+            </tr>
+        }
+    </tbody>
+</table>

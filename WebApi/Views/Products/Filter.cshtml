@@ -1,0 +1,65 @@
+﻿@model IEnumerable<stajprojem.Models.Product>
+@{
+    ViewData["Title"] = "Ürün Filtreleme";
+    var filter = ViewBag.Filter as stajprojem.Models.ProductFilterViewModel;
+}
+
+<h2>Ürün Filtreleme</h2>
+
+<form asp-action="Filter" method="get" class="mb-3">
+    <div class="row g-2">
+        <div class="col">
+            <input type="text" name="ProductName" value="@filter?.ProductName" class="form-control" placeholder="Ürün Adı">
+        </div>
+        <div class="col">
+            <input type="number" name="MinPrice" value="@filter?.MinPrice" class="form-control" placeholder="Min Fiyat" step="0.01">
+        </div>
+        <div class="col">
+            <input type="number" name="MaxPrice" value="@filter?.MaxPrice" class="form-control" placeholder="Max Fiyat" step="0.01">
+        </div>
+        <div class="col">
+            <input type="number" name="MinStock" value="@filter?.MinStock" class="form-control" placeholder="Min Stok">
+        </div>
+        <div class="col">
+            <input type="number" name="MaxStock" value="@filter?.MaxStock" class="form-control" placeholder="Max Stok">
+        </div>
+        <div class="col">
+            <input type="number" name="CategoryId" value="@filter?.CategoryId" class="form-control" placeholder="Kategori Id">
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary">Filtrele</button>
+        </div>
+    </div>
+</form>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ad</th>
+            <th>Kategori</th>
+            <th>Tedarikçi</th>
+            <th>Fiyat</th>
+            <th>Birim</th>
+            <th>Stok</th>
+            <th>Açıklama</th>
+            <th>Eklenme Tarihi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.product_name</td>
+                <td>@item.category_id</td>
+                <td>@item.supplier_id</td>
+                <td>@item.unit_price?.ToString("N2")</td>
+                <td>@item.unit</td>
+                <td>@item.stock_quantity</td>
+                <td>@item.description</td>
+                <td>@item.created_date?.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>

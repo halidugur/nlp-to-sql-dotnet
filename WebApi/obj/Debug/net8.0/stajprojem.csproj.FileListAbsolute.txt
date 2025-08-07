@@ -1,0 +1,204 @@
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.csproj.AssemblyReference.cache
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.AssemblyInfoInputs.cache
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.AssemblyInfo.cs
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.csproj.CoreCompileInputs.cache
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.RazorAssemblyInfo.cache
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.RazorAssemblyInfo.cs
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\appsettings.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\stajprojem.staticwebassets.runtime.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\stajprojem.staticwebassets.endpoints.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\stajprojem.exe
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\stajprojem.deps.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\stajprojem.runtimeconfig.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\stajprojem.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\stajprojem.pdb
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Npgsql.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\scopedcss\bundle\stajprojem.styles.css
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\scopedcss\projectbundle\stajprojem.bundle.scp.css
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.csproj.Up2Date
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\refint\stajprojem.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.pdb
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.genruntimeconfig.cache
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\ref\stajprojem.dll
+C:\Users\hltug\source\repos\stajprojem\stajprojem\obj\Debug\net8.0\stajprojem.sourcelink.json
+C:\Users\hltug\source\repos\stajprojem\stajprojem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\stajprojem.staticwebassets.runtime.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\stajprojem.staticwebassets.endpoints.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\stajprojem.exe
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\stajprojem.deps.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\stajprojem.runtimeconfig.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\stajprojem.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\stajprojem.pdb
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Npgsql.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.AssemblyInfo.cs
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.sourcelink.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\scopedcss\bundle\stajprojem.styles.css
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\scopedcss\projectbundle\stajprojem.bundle.scp.css
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.Up2Date
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\refint\stajprojem.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.pdb
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\stajprojem.genruntimeconfig.cache
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\ref\stajprojem.dll
+C:\Users\USER\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Masaüstü\Yeni klasör\stajdeneme\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\newfile\stajdeneme\bin\Debug\net8.0\appsettings.Development.json
+C:\newfile\stajdeneme\bin\Debug\net8.0\appsettings.json
+C:\newfile\stajdeneme\bin\Debug\net8.0\stajprojem.staticwebassets.endpoints.json
+C:\newfile\stajdeneme\bin\Debug\net8.0\stajprojem.staticwebassets.runtime.json
+C:\newfile\stajdeneme\bin\Debug\net8.0\stajprojem.exe
+C:\newfile\stajdeneme\bin\Debug\net8.0\stajprojem.deps.json
+C:\newfile\stajdeneme\bin\Debug\net8.0\stajprojem.runtimeconfig.json
+C:\newfile\stajdeneme\bin\Debug\net8.0\stajprojem.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\stajprojem.pdb
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Npgsql.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\newfile\stajdeneme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.AssemblyReference.cache
+C:\newfile\stajdeneme\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.GeneratedMSBuildEditorConfig.editorconfig
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.AssemblyInfoInputs.cache
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.AssemblyInfo.cs
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.CoreCompileInputs.cache
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.MvcApplicationPartsAssemblyInfo.cache
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.RazorAssemblyInfo.cache
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.RazorAssemblyInfo.cs
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.sourcelink.json
+C:\newfile\stajdeneme\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\newfile\stajdeneme\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\newfile\stajdeneme\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\newfile\stajdeneme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\newfile\stajdeneme\obj\Debug\net8.0\scopedcss\bundle\stajprojem.styles.css
+C:\newfile\stajdeneme\obj\Debug\net8.0\scopedcss\projectbundle\stajprojem.bundle.scp.css
+C:\newfile\stajdeneme\obj\Debug\net8.0\staticwebassets.build.json
+C:\newfile\stajdeneme\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\newfile\stajdeneme\obj\Debug\net8.0\staticwebassets.development.json
+C:\newfile\stajdeneme\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.Up2Date
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.dll
+C:\newfile\stajdeneme\obj\Debug\net8.0\refint\stajprojem.dll
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.pdb
+C:\newfile\stajdeneme\obj\Debug\net8.0\stajprojem.genruntimeconfig.cache
+C:\newfile\stajdeneme\obj\Debug\net8.0\ref\stajprojem.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\appsettings.Development.json
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\appsettings.json
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\stajprojem.staticwebassets.endpoints.json
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\stajprojem.staticwebassets.runtime.json
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\stajprojem.exe
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\stajprojem.deps.json
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\stajprojem.runtimeconfig.json
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\stajprojem.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\stajprojem.pdb
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Npgsql.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\staj\nlp_sql_engine\stajdeneme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.AssemblyReference.cache
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.GeneratedMSBuildEditorConfig.editorconfig
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.AssemblyInfoInputs.cache
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.AssemblyInfo.cs
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.CoreCompileInputs.cache
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.MvcApplicationPartsAssemblyInfo.cache
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.RazorAssemblyInfo.cache
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.RazorAssemblyInfo.cs
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\scopedcss\bundle\stajprojem.styles.css
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\scopedcss\projectbundle\stajprojem.bundle.scp.css
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\staticwebassets.build.json
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\staticwebassets.development.json
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.csproj.Up2Date
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.dll
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\refint\stajprojem.dll
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.pdb
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\stajprojem.genruntimeconfig.cache
+C:\staj\nlp_sql_engine\stajdeneme\obj\Debug\net8.0\ref\stajprojem.dll

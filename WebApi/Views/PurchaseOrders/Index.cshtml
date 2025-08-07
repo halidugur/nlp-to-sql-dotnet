@@ -1,0 +1,37 @@
+﻿@model IEnumerable<stajprojem.Models.PurchaseOrder>
+
+@{
+    ViewData["Title"] = "Satın Alma Siparişleri";
+}
+
+<h2>Satın Alma Siparişleri</h2>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>supplier_id</th>
+            <th>employee_id</th>
+            <th>order_date</th>
+            <th>total_amount</th>
+            <th>status</th>
+            <th>delivery_date</th>
+            <th>notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.supplier_id</td>
+                <td>@item.employee_id</td>
+                <td>@item.order_date?.ToShortDateString()</td>
+                <td>@item.total_amount?.ToString("N2")</td>
+                <td>@item.status</td>
+                <td>@item.delivery_date?.ToShortDateString()</td>
+                <td>@item.notes</td>
+            </tr>
+        }
+    </tbody>
+</table>
